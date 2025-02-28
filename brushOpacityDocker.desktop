@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=brushOpacityDocker
+X-Python-2-Compatible=false
+X-Krita-Manual=Manual.html
+Name=Brush Opacity Docker
+Comment=Brush opacity custumizable combo

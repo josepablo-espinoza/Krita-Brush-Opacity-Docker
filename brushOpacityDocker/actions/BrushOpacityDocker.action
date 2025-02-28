@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionCollection version="2" name="Scripts">
+    <Actions category="Scripts">
+        <text>BrushOpacityDocker</text>
+
+        <Action name="cycleBrushOpacity">
+        <icon></icon>
+        <text>Cycles to the next Opacity# in the brush opacity docker</text>
+        <whatsThis>Cycles to the next Opacity# in the brush opacity docker</whatsThis>
+        <toolTip>Cycles to the next Opacity# in the brush opacity docker</toolTip>
+        <iconText>Next opacity</iconText>
+        <activationFlags>10000</activationFlags>
+        <activationConditions>0</activationConditions>
+        <shortcut>ctrl+alt+shift+o</shortcut>
+        <isCheckable>false</isCheckable>
+        <statusTip></statusTip>
+        </Action>
+    </Actions>
+</ActionCollection>

@@ -1,0 +1,78 @@
+{
+    "defaultMode": "medium",
+    "cycleOrientation": true,
+    "modes": {
+        "small": {
+            "label": "Small",
+            "opacities": [
+                1,
+                10,
+                25,
+                40
+            ],
+            "ranges": null,
+            "index": 0,
+            "key": "small"
+        },
+        "medium": {
+            "label": "Medium",
+            "opacities": [
+                30,
+                50,
+                70,
+                100
+            ],
+            "ranges": null,
+            "index": 1,
+            "key": "medium"
+        },
+        "large": {
+            "label": "Large",
+            "opacities": [
+                50,
+                70,
+                80,
+                100
+            ],
+            "ranges": null,
+            "index": 2,
+            "key": "large"
+        },
+        "currentBrush": {
+            "label": "Current brush",
+            "opacities": [],
+            "ranges": null,
+            "index": 3,
+            "key": "currentBrush"
+        },
+        "custom": {
+            "label": "Custom",
+            "opacities": [
+                10,
+                25,
+                50,
+                80
+            ],
+            "ranges": [
+                {
+                    "min": 1,
+                    "max": 40
+                },
+                {
+                    "min": 1,
+                    "max": 75
+                },
+                {
+                    "min": 1,
+                    "max": 100
+                },
+                {
+                    "min": 1,
+                    "max": 100
+                }
+            ],
+            "index": 4,
+            "key": "custom"
+        }
+    }
+}
